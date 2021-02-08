@@ -18,3 +18,5 @@ Xcode 12: ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 * Restart Xcode
 * Select *Editor* > *Theme* > *Armadillu*
 * Enjoy!
+
+![Armadiullu Xcode Theme](https://github.com/hkellaway/ArmadilluXcodeTheme/raw/main/ArmadilluXcodeTheme.png)
